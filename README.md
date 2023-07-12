@@ -25,3 +25,15 @@ I solved this problem using Data science and Machine learning technology, develo
 At each step in both development and deployment parts, logging operation is performed which are stored in the development_logs.log and deployment_logs.log files respectively. 
 
 As a result, we can now immediately determine the compressive strength of concrete by simply providing the web application with the raw material quantities. 
+
+
+
+## Web Deployment
+Deployed on web using Streamlit Community Cloud
+### `web Link:-` [web Link](https://concrete-compressive-strength-prediction-vksmadheshiya.streamlit.app/)
+### `DEMO VIDEO:-` [DEMO VIDEO](https://www.youtube.com/watch?v=K5M5aGdx0HM)
+### `High level design:-` [High level design](https://drive.google.com/file/d/16l4JckXy7EBOfOdDbaXzS5ZYBJEtm3Sn/view?usp=sharing)
+### `Low level design:-` [Low level design](https://drive.google.com/file/d/1dTMuRAjaOe5xF-U0g0DWBY1gzp3mnJEQ/view?usp=sharing)
+### `Architecture:-` [Architecture](https://drive.google.com/file/d/12gRIN5Vnpxnpx_cHI7TEJ_4RR5v2mB6j/view?usp=sharing)
+### `Detailed project report:-` [Detailed project report](https://drive.google.com/file/d/1Pr77AEmsg4zP0Uqr82c_iuCGs1CK4bv2/view?usp=sharing)
+### `Wireframe document:-` [Wireframe document](https://drive.google.com/file/d/1q276LxCMc_UXYAlwEqYwKBvCIquV4dKY/view?usp=sharing)
